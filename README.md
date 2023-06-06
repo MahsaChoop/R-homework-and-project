@@ -1,2 +1,2 @@
 # R-homework-and-project
-all homework and project to my simulation class with R language
+all homework and project of my simulation class with R language
